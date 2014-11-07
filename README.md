@@ -7,4 +7,3 @@ features available in android Lollipop (api 21).
 - Vector Animtion ("path morphs")
 - Animated State List Drawables
 - Android Palette class
--
