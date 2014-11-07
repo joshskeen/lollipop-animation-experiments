@@ -4,21 +4,4 @@
               android:orientation="vertical"
     >
 
-    <LinearLayout
-        android:orientation="vertical"
-        android:id="@+id/myLayout"
-        android:layout_width="match_parent"
-        android:padding="10dp"
-        android:background="@drawable/background"
-        android:elevation="10dp"
-        android:layout_height="wrap_content">
-
-    </LinearLayout>
-
-    <ImageView
-        android:id="@+id/myAnimation"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/my_sweet_anim"
-        ></ImageView>
 </LinearLayout>
